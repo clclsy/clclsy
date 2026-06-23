@@ -26,5 +26,6 @@ that could actually be useful.
 ## Outside the keyboard
 DIYer (crochet, knitting, art) · K-pop fan (mainly stan TXT) · Amateur cook and baker · Animal person 🐾
 
-📫 clsy@my.yorku.ca 
-[LinkedIn](https://linkedin.com/in/celinelamsy)
+📫 clsy@my.yorku.ca  
+[LinkedIn](https://linkedin.com/in/celinelamsy)  
+[Codédex](https://www.codedex.io/@cline)

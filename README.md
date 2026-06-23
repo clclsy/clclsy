@@ -10,7 +10,7 @@ that could actually be useful.
 
 ## 🛠️ What I work(ed) with
 **Languages:** Python, Java, JavaScript, SQL, C, HTML/CSS  
-**Frameworks & Tools:** React, Flask, Oracle APEX, PyTorch, Git, Docker, Azure DB, VS Code 
+**Frameworks & Tools:** React, Flask, Oracle APEX, PyTorch, Git, Docker, Azure DB, VS Code
 **Interests:** AI/ML, data pipelines, full-stack development, Cyber Security (specifically forensics)
 
 ## 🚀 What I'm working on
